@@ -50,7 +50,7 @@ theme_settings:
 
   # Localization strings
   str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
+  # str_rss_follow: "Follow RSS feed"
   str_email: "Email"
   str_next_post: "Next post"
   str_previous_post: "Previous post"
