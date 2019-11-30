@@ -1,10 +1,15 @@
 ---
 layout: post
-title: 작성자 추가 TEST
+title: 텐서플로우(Tensorflow) GPU 버전 설치하기 - Windows 10
 comments: true
 categories : [Python/Tensorflow]
 tags: [Tensorflow]
 ---
 
-<br><br>
-example
+<center>
+<figure>
+<img src="/assets/post-img/django/1.png" alt="views">
+<figcaption>sample</figcaption>
+</figure>
+</center>
+

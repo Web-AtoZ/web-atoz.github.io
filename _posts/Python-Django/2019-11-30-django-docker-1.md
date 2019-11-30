@@ -10,9 +10,10 @@ tags: [Docker, Django]
 
 <center>
 <figure>
-<img src="/assets/user-img/jungeun.png" alt="views">
-<figcaption>jungeunlee95</figcaption>
+<img src="/assets/user-img/jungeun.png" alt="views" style="max-width: 70px;">
+    <div style="position:absolute; bottom:8px; right:16px;">jungeunlee95</div>
 </figure>
 </center>
+
 
 
