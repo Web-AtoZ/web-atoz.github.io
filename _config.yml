@@ -5,7 +5,7 @@ url: "https://web-atoz.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: webAtoZ
+  title: WebAtoZ
   avatar: assets/img/blogmark.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
