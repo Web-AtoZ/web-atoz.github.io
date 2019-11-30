@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Basic Statistics - 통계학(Statistics)과 데이터(Data)
+title: Basic Statistics example
 comments: true
 categories : [Data Science/Statistics]
 tags: [Statistics, ADsP]
+author: jungeunlee95
+userImage: /assets/user-img/jungeun.png
 ---
 <br><br>example

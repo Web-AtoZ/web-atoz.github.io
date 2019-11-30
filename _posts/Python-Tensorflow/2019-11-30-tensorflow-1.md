@@ -10,7 +10,11 @@ userImage: /assets/user-img/jungeun.png
 
 ---
 
-## 포스팅 예시
+# H1 태그
+
+---
+
+## H2 태그
 
 > 이 포스팅은 **aaaaaaa** 기반의 **bbbbbb**에 관한 내용을 설명하는 글입니다.
 
@@ -108,7 +112,6 @@ HTML과 CSS를 사용하여 ‘구조’와 ‘표현’을 구분해야 한다.
 <figcaption></figcaption>
 </figure>
 </center>
-
 ------
 
 
