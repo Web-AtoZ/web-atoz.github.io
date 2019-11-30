@@ -6,13 +6,13 @@ categories : [Python/Django, Development Environment/Docker]
 tags: [Docker, Django]
 ---
 
-<br><br>example
-<br>
+
 
 <center>
 <figure>
-<img src="/assets/post-img/django/1.png" alt="views">
-<figcaption>sample</figcaption>
+<img src="/assets/user-img/jungeun.png" alt="views">
+<figcaption>jungeunlee95</figcaption>
 </figure>
 </center>
+
 
