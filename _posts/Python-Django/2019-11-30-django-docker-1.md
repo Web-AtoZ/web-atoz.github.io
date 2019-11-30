@@ -8,12 +8,5 @@ author: jungeunlee95
 userImage: /assets/user-img/jungeun.png
 ---
 
-<center>
-<figure style="width: 130px;text-align: center;font-size: smaller;text-indent: 0;margin: 0.5em;padding: 0.5em;border: thin lightgray solid;">
-<img src="/assets/user-img/jungeun.png" alt="views" style="max-width: 60px;">
-<figcaption>jungeunlee95</figcaption>
-</figure>
-</center>
 
-<hr>
 
