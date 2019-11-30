@@ -9,7 +9,7 @@ tags: [Docker, Django]
 
 
 <center>
-<figure style="width: 75px;text-align: center;font-style: italic;font-size: smaller;text-indent: 0;margin: 0.5em;padding: 0.5em;">
+<figure style="width: 150px;text-align: center;font-size: smaller;text-indent: 0;margin: 0.5em;padding: 0.5em;border: thin lightgray solid;">
 <img src="/assets/user-img/jungeun.png" alt="views" style="max-width: 60px;">
 <figcaption>jungeunlee95</figcaption>
 </figure>
