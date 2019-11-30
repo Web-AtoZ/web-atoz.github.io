@@ -1,6 +1,6 @@
 // Header text feature
 .selfie{
-  padding-top:200px;
+  padding-top:50px;
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -15,6 +15,7 @@
   list-style: none;
   display: block;
   text-align: center;
+  height: 80px;
 }
 .social li{
   border: 0;
@@ -60,6 +61,8 @@
     width: 100%;
     display: inline-block;
     border-bottom: 1px solid $border-color;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
 }
 // Pagination
