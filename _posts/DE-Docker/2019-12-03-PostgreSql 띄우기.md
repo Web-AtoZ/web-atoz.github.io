@@ -7,8 +7,6 @@ tags: [Docker, PostgreSql]
 author: hanseonghye
 ---
 
-# PostgreSql 띄우기
-
 
 
 ## 실행 명령어 
@@ -19,26 +17,28 @@ author: hanseonghye
 
 
 
-
+<br/><br/>
 
 ## 로컬에서 확인하기
 
+<br/>
+
 ### 커널에서 확인하기
 
-- 도커 서버에 접속하기 ?
+1. 도커 서버에 접속하기 ?
 
-  ```shell
-  > docker exec -i -t 컨테이너이름 bash
-  ```
+```shell
+> docker exec -i -t 컨테이너이름 bash
+```
 
-- psql 접속
+2. psql 접속
 
-  ```
-  > su - postgres
-  > psql --username 사용자이름 --dbname db이름
-  ```
+```
+> su - postgres
+> psql --username 사용자이름 --dbname db이름
+```
 
-  
+<br/>
 
 ### 데이터 베이스 툴로 확인하기
 
