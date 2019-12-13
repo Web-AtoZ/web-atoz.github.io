@@ -76,14 +76,30 @@ Another sample category page.
 ex) 2019/12/05 데일리 회의 기록 작성 시 상단에 하기의 이미지와 같은 설정 추가
 
 ```
-layout: post                              // 레이아웃 설정
-title: 2019/12/05 데일리					// 글 제목 설정
-comments: true							  // 댓글 기능 사용 여부
-categories : [Project/Daily]			  // 카테고리 설정 **
-tags: [Daily]							  // 태그 설정
-author: jungeunlee95					  // 작성자 설정
-userImage: /assets/user-img/jungeun.png   // 작성자 사진 설정
+layout: post      
+title: 2019/12/05 데일리
+comments: true		
+categories : [Project/Daily]	
+tags: [Daily]	
+author: jungeunlee95		
+userImage: /assets/user-img/jungeun.png   
 ```
+
+📌 `layout:` 레이아웃 설정                 
+
+📌 `title:` 글 제목 설정         
+
+📌 `comments:` 댓글 기능 사용 여부         
+
+📌 `categories:` 카테고리 설정       
+
+📌 `tags:` 태그 설정    
+
+📌 `author:` 작성자 설정         
+
+📌 `userImage:` 작성자 사진 설정         
+
+​     
 
 <br>
 
