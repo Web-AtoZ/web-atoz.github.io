@@ -2,8 +2,8 @@
 layout: post
 title: 포스팅 예시
 comments: true
-categories : [Python/Tensorflow]
-tags: [Tensorflow]
+categories : [Development Environment/Github Blog]
+tags: [Github Blog]
 author: jungeunlee95
 userImage: /assets/user-img/jungeun.png
 ---
