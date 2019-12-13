@@ -12,7 +12,7 @@ userImage: /assets/user-img/jungeun.png
 
 <br>
 
-## **[1] html 파일 수정**
+> <subtitle> [1] html 파일 수정 </subtitle>
 
 카테고리 추가/수정을 원할 시 html파일에서 `div > ul > li 태그`에 카테고리를 추가/수정 해야합니다.
 
@@ -51,7 +51,7 @@ userImage: /assets/user-img/jungeun.png
 
 <br>
 
-## **[2] category/ 위치에 설정 파일 추가**
+> <subtitle> [2] category/ 위치에 설정 파일 추가 </subtitle>
 
 **category/{{카테고리이름}}.md** 파일 추가
 
@@ -71,7 +71,7 @@ Another sample category page.
 
 <br>
 
-## **[3] Post 작성 시 .md 파일 상단에 카테고리 설정 후 작성**
+> <subtitle> [3] Post 작성 시 .md 파일 상단에 카테고리 설정 후 작성 </subtitle>
 
 ex) 2019/12/05 데일리 회의 기록 작성 시 상단에 하기의 이미지와 같은 설정 추가
 
