@@ -1,7 +1,7 @@
 ---
 layout: category
-title: NodeJS
-permalink: '/NodeJS'
+title: 시작하기
+permalink: '/NodeJS/start'
 
 ---
 
