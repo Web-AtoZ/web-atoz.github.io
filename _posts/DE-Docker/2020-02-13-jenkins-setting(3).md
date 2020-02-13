@@ -19,7 +19,7 @@ author: MaximSungmo
 
 ## Gradle 명령어로 Clean Build
 
-![1581550818516](../../assets/1581550818516.png)
+![1581550818516](../../assets/images/1581550818516.png)
 
 spring boot 실행 시킬 때 gradle 로 build 작업을 하게 된다.
 
