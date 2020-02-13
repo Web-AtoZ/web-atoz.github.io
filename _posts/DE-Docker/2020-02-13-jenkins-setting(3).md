@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "[Jenkins] Google Cloud Platform에 연결하기(3)"
-excerpt: "Jenkins 명령어로 컨테이너 실행시키기"
-toc: true
-toc_sticky: true
-header:
-  teaser: /assets/images/1581550818516.png
-comments: true
-
 categories : [Development Environment/Docker]
 tags: [Docker, Jenkins]
 last_modified_at: 2020-02-13T23:06:00-05:00

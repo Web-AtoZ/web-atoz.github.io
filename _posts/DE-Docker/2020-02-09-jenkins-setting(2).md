@@ -1,11 +1,6 @@
 ---
 layout: post
 title:  "[Jenkins] Google Cloud Platform에 연결하기(2)"
-excerpt: "Jenkins로 GCP 연결하기(2)"
-toc: true
-toc_sticky: true
-comments: true
-
 categories : [Development Environment/Docker]
 tags: [Docker, Jenkins]
 last_modified_at: 2020-02-09T23:06:00-05:00
