@@ -15,11 +15,11 @@ author: MaximSungmo
 
 ## Slack에 연결하여 Jenkins 알람 받기
 
-![image-20200209235731793](../../assets/images/image-20200209235731793.png)
+![image-20200209235731793](/assets/images/image-20200209235731793.png)
 
 다음과 같이 Add more apps -> Jenkins CI 검색 -> Add to Slack 을 해준다.
 
-![image-20200209235858100](../../assets/images/image-20200209235858100.png)
+![image-20200209235858100](/assets/images/image-20200209235858100.png)
 
 이제 Add Jenkins CI integration을 클릭하면 다음의 설명이 나오는데, Step1, Step2 는 그대로 따라한다.
 
