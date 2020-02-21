@@ -10,9 +10,6 @@ author: [MaximSungmo](https://maximsungmo.github.io/)
 ![1581638144131](/assets/images/1581638144131.png)
 
 
-
-
-
 ## 1. VM인스턴스 생성하기 
 
 `[Compute Engine]-[VM인스턴스]` 을 선택한다.
