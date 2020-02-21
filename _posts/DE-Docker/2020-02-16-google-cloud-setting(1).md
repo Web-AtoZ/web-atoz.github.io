@@ -4,7 +4,7 @@ title:  [Cloud] Google Cloud Platform 시작하기
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP]
-author: [MaximSungmo](https://maximsungmo.github.io/)
+author: MaximSungmo
 ---
 
 ![1581638144131](/assets/images/1581638144131.png)
