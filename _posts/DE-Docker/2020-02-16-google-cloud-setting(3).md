@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  [Cloud] Google Cloud Platform 시작하기(3) - Jenkins Container
