@@ -1,19 +1,10 @@
 ---
-title:  "[Jenkins] Jenkins 셋팅하기(3) - Springboot로 docker image 생성, 스크립트 작성"
-excerpt: "Jenkins로 Springboot source를 docker image로 만들고 배포를 위한 명령어 스크립트 작성하기"
-toc: true
-toc_sticky: true
-header:
-  teaser: /assets/images/jenkins_main_image.jpg
-
-categories:
-  - linux
-tags:
-  - linux
-  - jenkins
-  - docker
-  - GCP
-last_modified_at: 2020-02-16T21:00:00-05:00
+layout: post
+title:  [Jenkins] Jenkins 셋팅하기(3) - Springboot로 docker image 생성, 스크립트 작성
+comments: true
+categories : [Development Environment/Docker]
+tags: [cloud, GCP, docker, jenkins]
+author: [MaximSungmo](https://maximsungmo.github.io/)
 ---
 
 ## bulid를 위한 명령어(Gradle)
@@ -26,7 +17,7 @@ last_modified_at: 2020-02-16T21:00:00-05:00
 
 ### Gradle 명령어로 Clean Build
 
-![1581550818516](../../assets/images/1581550818516.png)
+![1581550818516](/assets/images/1581550818516.png)
 
 spring boot 실행 시킬 때 gradle 로 build 작업을 하게 된다.
 

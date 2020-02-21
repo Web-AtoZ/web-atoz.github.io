@@ -4,11 +4,10 @@ title:  [Cloud] Google Cloud Platform 시작하기
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP]
-author: MaximSungmo
+author: [MaximSungmo](https://maximsungmo.github.io/)
 ---
 
-
-![1581638144131](assets/images/1581638144131.png)
+![1581638144131](/assets/images/1581638144131.png)
 
 
 
@@ -18,11 +17,11 @@ author: MaximSungmo
 
 `[Compute Engine]-[VM인스턴스]` 을 선택한다.
 
-![image-20200216153306782](assets/images/image-20200216153306782.png)
+![image-20200216153306782](/assets/images/image-20200216153306782.png)
 
 몇 분 기다리면 `만들기` 버튼이 활성화 되므로 잠시 기다린 후 `만들기` 눌러 준비한다. 
 
-![1581636923198](assets/images/1581636923198.png)
+![1581636923198](/assets/images/1581636923198.png)
 
 
 
@@ -32,13 +31,13 @@ author: MaximSungmo
 
 - 80포트와 443포트로 접근 허용을 위하여 HTTP, HTTPS 트래픽을 허용하였다. 
 
-![image-20200216154210217](assets/images/image-20200216154210217.png)
+![image-20200216154210217](/assets/images/image-20200216154210217.png)
 
 
 
 만들기를 클릭하면 다음과 같이 화면을 이동하여 기본 VM인스턴스 만들기가 완료되었다. 
 
-![image-20200216154520593](assets/images/image-20200216154520593.png)
+![image-20200216154520593](/assets/images/image-20200216154520593.png)
 
 접속을 위하여 `연결`에 있는 `SSH 클릭` - `브라우저 창에서 열기` 를 통하여 나의 VM인스턴스에 접속할 수 있게 된다.
 

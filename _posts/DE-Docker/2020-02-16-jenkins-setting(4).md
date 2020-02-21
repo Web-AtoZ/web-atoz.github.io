@@ -1,19 +1,10 @@
 ---
-title:  "[Jenkins] Jenkins 셋팅하기(4) - Pipeline 설정하기"
-excerpt: "Pipeline 설정으로 단계별 작업 내용 확인하기"
-toc: true
-toc_sticky: true
-header:
-  teaser: /assets/images/image-20200217004004848.png
-
-categories:
-  - linux
-tags:
-  - linux
-  - jenkins
-  - docker
-  - GCP
-last_modified_at: 2020-02-16T22:00:00-05:00
+layout: post
+title:  [Jenkins] Jenkins 셋팅하기(4) - Pipeline 설정하기
+comments: true
+categories : [Development Environment/Docker]
+tags: [cloud, GCP, docker, jenkins]
+author: [MaximSungmo](https://maximsungmo.github.io/)
 ---
 
 ## Pipeline 만들기 
