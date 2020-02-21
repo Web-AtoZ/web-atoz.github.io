@@ -18,8 +18,8 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 
 <center>
-
-<p> Web AtoZ</p>
+<img src="/assets/img/profile.PNG" alt="WebAtoZ"/>
+<p>Web AtoZ</p>
 
 <p>블로그에 방문해 주셔서 감사합니다.</p>
 
@@ -27,72 +27,15 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 ---------------------------
 
-<h3>1. A</h3>
+<h2>개발 스터디 : Web-AtoZ</h2>
+<p>
+안녕하세요.
 
- <p class="text"> * aaa</p>
+개발 스터디 Web-AtoZ 입니다.
 
- <p class="text"> * aaa</p>
+저희는 개발 환경 설정 - 데이터베이스 모델링 - 기능 구현 - 서비스 출시까지 모든 과정을 진행하는 스터디 팀입니다.
 
- <p class="text"> * aaa</p>
+우리 모두 많이 부족하겠지만 발전할 수 있는 기회가 되길 바랍니다. 
 
-
-<br>
-<h3>2. B</h3>
-
-
-   <p class="text"> bbb </p>
-
-<br>
-
-<h3>3. C</h3>
-
-<div id="jb-sidebar">
-	<p>ccc</p>
-    <p>ccc</p>
-</div>
-
-<div id="jb-content">
-    <p>cccccccccccccccccccccc</p>
-    <p>ccccccccccccccccccccccc</p>
-</div>
-
-<br><br><br><br><br>
-
-<h3>4. D</h3>
-<div id="jb-sidebar">
-	<p>ddd ~ ddd</p>
-	<br>
-    <p>ddd ~ ddd</p>
-    <br>
-    <p>ddd ~ ddd</p>
-    <br><br><br><br><br><br>
-    <p>ddd ~ ddd</p>
-    <br><br><br><br><br><br>
-    <p>ddd ~ ddd</p>
-</div>
-
-<div id="jb-content">
-    <p>EEEEEEEEEEEEEEEEEEEEE<br>
-	* eeeeeeeeeeeeee</p>
-
-    <p>
-    eeeeeeeeee<br>
-    * eeeeeeeeeeeeee</p>
-
-    <p>eeeeeeeeeeeeee<br>
-    * eeeeeeeeeeeeee<br>
-    * eeeeeeeeeeeeee<br><br>
-
-    eeeeeeeeeeeeee<br>
-    * eeeeeeeeeeeeee </p>
-    <p>eeeeeeeeeeeeee<br>
-
-    * eeeeeeeeeeeeee<br>
-    * eeeeeeeeeeeeee<br>
-    * eeeeeeeeeeeeee<br>
-    * eeeeeeeeeeeeee</p>
-
-    <p>eeeeeeeeeeeeee<br>
-    * eeeeeeeeeeeeee
-    </p>
-</div>
+감사합니다. 
+</p>
