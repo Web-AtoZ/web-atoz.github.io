@@ -1,16 +1,10 @@
 ---
-title:  "[Cloud] Google Cloud Platform 시작하기"
-excerpt: "1. VM 인스턴스 구성하기"
-toc: true
-toc_sticky: true
-header:
-  teaser: /assets/images/1581638144131.png
-categories:
-  - linux
-tags:
-  - cloud
-  - GCP
-last_modified_at: 2020-02-16T15:00:00-05:00
+layout: post
+title:  [Cloud] Google Cloud Platform 시작하기
+comments: true
+categories : [Development Environment/Docker]
+tags: [cloud, GCP]
+author: MaximSungmo
 ---
 
 
