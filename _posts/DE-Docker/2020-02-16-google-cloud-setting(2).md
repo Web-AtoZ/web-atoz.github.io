@@ -4,9 +4,9 @@ title:  [Cloud] Google Cloud Platform 시작하기(2) - 도커 설치
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP, docker]
-author: [MaximSungmo](https://maximsungmo.github.io/)
+author: MaximSungmo
 ---
-
+[작성자 : MaximSungmo](https://maximsungmo.github.io/)
 
 ![1581638144131](/assets/images/1581638144131.png)
 

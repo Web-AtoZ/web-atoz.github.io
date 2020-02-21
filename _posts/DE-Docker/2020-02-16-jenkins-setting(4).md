@@ -4,8 +4,9 @@ title:  [Jenkins] Jenkins 셋팅하기(4) - Pipeline 설정하기
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP, docker, jenkins]
-author: [MaximSungmo](https://maximsungmo.github.io/)
+author: MaximSungmo
 ---
+[작성자 : MaximSungmo](https://maximsungmo.github.io/)
 
 ## Pipeline 만들기 
 
