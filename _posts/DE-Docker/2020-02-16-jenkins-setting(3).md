@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  [Jenkins] Jenkins 셋팅하기(3) - Springboot로 docker image 생성, 스크립트 작성
+title:  (Jenkins) Jenkins 셋팅하기(3) - Springboot로 docker image 생성, 스크립트 작성
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP, docker, jenkins]
 author: MaximSungmo
 ---
-[작성자 : MaximSungmo](https://maximsungmo.github.io/)
+작성자 블로그 : [MaximSungmo](https://maximsungmo.github.io/)
+
+---
 
 ## bulid를 위한 명령어(Gradle)
 

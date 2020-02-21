@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  [Jenkins] Jenkins 셋팅하기(2) - slack 연동
+title:  (Jenkins) Jenkins 셋팅하기(2) - slack 연동
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP, docker, jenkins]
 author: MaximSungmo
 ---
-[작성자 : MaximSungmo](https://maximsungmo.github.io/)
+작성자 블로그 : [MaximSungmo](https://maximsungmo.github.io/)
+
+---
 
 ## Slack에 연결하여 Jenkins 알람 받기
 

@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  [Jenkins] Jenkins 셋팅하기(1) - Project 생성, Webhook 설정
+title:  (Jenkins) Jenkins 셋팅하기(1) - Project 생성, Webhook 설정
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP, docker, jenkins]
 author: MaximSungmo
 ---
-[작성자 : MaximSungmo](https://maximsungmo.github.io/)
+작성자 블로그 : [MaximSungmo](https://maximsungmo.github.io/)
+
+---
 
 ## 1. Jenkins 에 Job만들기
 
