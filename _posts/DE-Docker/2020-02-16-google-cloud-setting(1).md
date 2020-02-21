@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Cloud] Google Cloud Platform 시작하기
+title:  Cloud Google Cloud Platform 시작하기
 comments: true
 categories : [Development Environment/Docker]
 tags: [cloud, GCP]
